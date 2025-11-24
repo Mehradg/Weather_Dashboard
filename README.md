@@ -3,7 +3,7 @@ A simple program that shows the current weather for a city and saves the results
 
 ## Concepts Covered
 
-HTTP requests with `requests`
-JSON parsing (`json` module)
-File reading & writing
-Loops, functions, error handling
+- HTTP requests with `requests`
+- JSON parsing (`json` module)
+- File reading & writing
+- Loops, functions, error handling
